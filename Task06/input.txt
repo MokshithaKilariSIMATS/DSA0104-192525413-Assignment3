@@ -1,0 +1,3 @@
+Message1: Hello 
+Message2: World!
+SMS_Limit: 160 characters

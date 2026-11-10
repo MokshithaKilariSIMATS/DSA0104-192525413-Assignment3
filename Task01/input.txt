@@ -1,0 +1,5 @@
+Title: C++ Primer
+Author: Stanley Lippman
+ISBN: 978-0321714114
+Copies: 5
+InvalidCopies: -3

@@ -1,0 +1,4 @@
+R: 100.0 Ohms
+L: 0.1 Henry
+C: 0.000010 Farads
+Omega: 1000.0 rad/sec

@@ -1,0 +1,3 @@
+AmountA: Rs 120.75
+AmountB: Rs 79.25
+CarryTest: Rs 0.75 + Rs 0.50

@@ -1,0 +1,4 @@
+Event: Symphony Concert
+Rows: 5
+Cols: 10
+Bookings: (0,0), (0,1), (2,4)
